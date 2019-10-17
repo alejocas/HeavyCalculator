@@ -14,5 +14,7 @@ function travel(number){
     return answer;
 }
 
+
+
 let n1 = 1234, n2 = 4321;
 console.log(travel(n1))
